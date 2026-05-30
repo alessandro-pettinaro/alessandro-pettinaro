@@ -1,13 +1,13 @@
 <div align="center">
 <h1>Alessandro Pettinaro</h1>
 
-<p>Computer Engineering — Software Developer & AI Engineer</p>
+<p>Computer Engineering - Software Developer & AI Engineer</p>
 
 <p>
-  <a href="https://www.linkedin.com/in/alessandropettinaro">
+  <a href="https://www.linkedin.com/in/alessandropettinaro](https://www.linkedin.com/in/alessandro-pettinaro-15a594405">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:alessandropettinaro@icloud.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -18,42 +18,28 @@
 
 ## About
 
-Born January 22, 2003. I hold a Bachelor's degree in Computer Engineering and Automation, and I am currently pursuing a Master's degree in Computer Engineering. My core interest is artificial intelligence — I am drawn to understanding how intelligent systems work and to building software that is actually useful. I do not limit myself to a single domain, and I consider that a strength.
+Born January 22, 2003. I hold a Bachelor's degree in Computer Engineering and Automation, and I am currently pursuing a Master's degree in Computer Engineering. My core interest is artificial intelligence. I am drawn to understanding how intelligent systems work and to building software that is actually useful. I do not limit myself to a single domain, and I consider that a strength.
 
 ---
-
 ## Education
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="48%" valign="top">
-      <table border="1" cellspacing="0" cellpadding="16" style="border-collapse:collapse; border-color:#e1e4e8; border-radius:8px; width:100%;">
-        <tr>
-          <td>
-            <img src="logo.png" height="40" alt="University logo"/><br/><br/>
-            <strong>Master's Degree</strong> &nbsp;<code>In progress</code><br/>
-            Computer Engineering and Automation <br/>
-            <sub>2024 – present</sub>
-          </td>
-        </tr>
-      </table>
+    <td><img src="logo.png" height="40"/></td>
+    <td>
+      <strong>Master's Degree</strong> · Computer Engineering &nbsp;<code>In progress</code><br/>
+      <sub>Università Politecnica delle Marche · 2024 – present</sub>
     </td>
-    <td width="4%"></td>
-    <td width="48%" valign="top">
-      <table border="1" cellspacing="0" cellpadding="16" style="border-collapse:collapse; border-color:#e1e4e8; border-radius:8px; width:100%;">
-        <tr>
-          <td>
-            <img src="logo.png" height="40" alt="University logo"/><br/><br/>
-            <strong>Bachelor's Degree</strong> &nbsp;<code>Completed</code><br/>
-            Computer Engineering and Automation<br/>
-            <sub>2021 – 2024</sub>
-          </td>
-        </tr>
-      </table>
+  </tr>
+  <tr><td colspan="2">&nbsp;</td></tr>
+  <tr>
+    <td><img src="logo.png" height="40"/></td>
+    <td>
+      <strong>Bachelor's Degree</strong> · Computer Engineering and Automation &nbsp;<code>Completed</code><br/>
+      <sub>Università Politecnica delle Marche · 2021 – 2024</sub>
     </td>
   </tr>
 </table>
-
 
 ## Skills
 
