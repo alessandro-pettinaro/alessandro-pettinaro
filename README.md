@@ -99,11 +99,8 @@ Born January 22, 2003. I hold a Bachelor's degree in Computer Engineering and Au
 
 ### Mobile Apps
 
-<a href="https://github.com/alessandro-pettinaro/project-name">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alessandro-pettinaro&repo=project-name&theme=default&hide_border=true&title_color=185FA5&icon_color=185FA5" />
-</a>
-<a href="https://github.com/alessandro-pettinaro/project-name">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alessandro-pettinaro&repo=project-name&theme=default&hide_border=true&title_color=185FA5&icon_color=185FA5" />
+<a href="https://github.com/alessandro-pettinaro/Barber">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alessandro-pettinaro&repo=Barber&theme=default&hide_border=true&title_color=185FA5&icon_color=185FA5" />
 </a>
 
 ### Web & Scripting
