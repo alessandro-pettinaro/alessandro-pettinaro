@@ -1,5 +1,3 @@
-<img width="1472" height="1932" alt="image" src="https://github.com/user-attachments/assets/4d5cd650-04c9-43f1-9516-e71475738187" /><div align="center">
-
 <h1>Alessandro Pettinaro</h1>
 
 <p>Computer Engineering — Software Developer & AI Engineer</p>
