@@ -111,10 +111,35 @@ Born January 22, 2003. I hold a Bachelor's degree in Computer Engineering and Au
 
 ### Mobile Apps
 
-<a href="https://github.com/alessandro-pettinaro/Barber">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alessandro-pettinaro&repo=Barber&theme=default&hide_border=true&title_color=185FA5&icon_color=185FA5" />
-</a>
 
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="48%" valign="top">
+      <table border="1" cellspacing="0" cellpadding="16" style="border-collapse:collapse; border-color:#e1e4e8; border-radius:8px; width:100%;">
+        <tr>
+          <td>
+            <a href="https://github.com/alessandro-pettinaro/Barber"><strong>Barber</strong></a><br/>
+            <sub>Android app for barbershop management. Handles appointments, clients, services, shifts and statistics. Includes automatic SMS confirmations and reminders via Firebase Cloud Functions.</sub><br/><br/>
+            <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+            <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="4%"></td>
+    <td width="48%" valign="top">
+      <table border="1" cellspacing="0" cellpadding="16" style="border-collapse:collapse; border-color:#e1e4e8; border-radius:8px; width:100%;">
+        <tr>
+          <td>
+            <a href="https://github.com/alessandro-pettinaro/HealtyLife"><strong>HealtyLife</strong></a><br/>
+            <sub>Coming soon.</sub><br/><br/>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 ### Web & Scripting
 
 <a href="https://github.com/alessandro-pettinaro/project-name">
