@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1472" height="1932" alt="image" src="https://github.com/user-attachments/assets/4d5cd650-04c9-43f1-9516-e71475738187" /><div align="center">
 
 <h1>Alessandro Pettinaro</h1>
 
@@ -31,8 +31,10 @@ Born January 22, 2003. I hold a Bachelor's degree in Computer Engineering and Au
       <table border="1" cellspacing="0" cellpadding="16" style="border-collapse:collapse; border-color:#e1e4e8; border-radius:8px; width:100%;">
         <tr>
           <td>
-            <p><strong>Master's degree</strong> &nbsp;<code>In progress</code></p>
-            <p>Computer Engineering</p>
+            <img src="assets/university_logo.png" height="40" alt="University logo"/><br/><br/>
+            <strong>Master's Degree</strong> &nbsp;<code>In progress</code><br/>
+            Computer Engineering<br/>
+            <sub>2024 – present</sub>
           </td>
         </tr>
       </table>
@@ -42,15 +44,16 @@ Born January 22, 2003. I hold a Bachelor's degree in Computer Engineering and Au
       <table border="1" cellspacing="0" cellpadding="16" style="border-collapse:collapse; border-color:#e1e4e8; border-radius:8px; width:100%;">
         <tr>
           <td>
-            <p><strong>Bachelor's degree</strong> &nbsp;<code>Completed</code></p>
-            <p>Computer Engineering and Automation</p>
+            <img src="assets/university_logo.png" height="40" alt="University logo"/><br/><br/>
+            <strong>Bachelor's Degree</strong> &nbsp;<code>Completed</code><br/>
+            Computer Engineering and Automation<br/>
+            <sub>2021 – 2024</sub>
           </td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
-
 ---
 
 ## Skills
@@ -145,17 +148,6 @@ Born January 22, 2003. I hold a Bachelor's degree in Computer Engineering and Au
 <a href="https://github.com/alessandro-pettinaro/project-name">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=alessandro-pettinaro&repo=project-name&theme=default&hide_border=true&title_color=185FA5&icon_color=185FA5" />
 </a>
-
----
-
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alessandro-pettinaro&show_icons=true&theme=default&hide_border=true&title_color=185FA5&icon_color=185FA5&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-pettinaro&layout=compact&theme=default&hide_border=true&title_color=185FA5" height="165"/>
-</div>
-
----
 
 <div align="center">
   <sub>Open to collaborations, ambitious AI projects, and conversations about computer science.</sub>
