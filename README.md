@@ -86,10 +86,22 @@ Born January 22, 2003. I hold a Bachelor's degree in Computer Engineering and Au
 ## Projects
 
 ### AI & Machine Learning
-
-<a href="https://github.com/alessandro-pettinaro/VideoMamba">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alessandro-pettinaro&repo=VideoMamba&theme=default&hide_border=true&title_color=185FA5&icon_color=185FA5" />
-</a>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="48%" valign="top">
+      <table border="1" cellspacing="0" cellpadding="16" style="border-collapse:collapse; border-color:#e1e4e8; border-radius:8px; width:100%;">
+        <tr>
+          <td>
+            <a href="https://github.com/alessandro-pettinaro/VideoMamba"><strong>VideoMamba</strong></a><br/>
+            <sub>Fine-tuning of the VideoMamba model for retail action recognition. Classifies actions such as product inspection and shelf interaction (take / release) across FPV, TPV, and TOP views.</sub><br/><br/>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+            <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ### Backend & Database
 
