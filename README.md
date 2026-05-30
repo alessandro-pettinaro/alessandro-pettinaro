@@ -30,7 +30,7 @@ Born January 22, 2003. I hold a Bachelor's degree in Computer Engineering and Au
       <table border="1" cellspacing="0" cellpadding="16" style="border-collapse:collapse; border-color:#e1e4e8; border-radius:8px; width:100%;">
         <tr>
           <td>
-            <img src="assets/university_logo.png" height="40" alt="University logo"/><br/><br/>
+            <img src="logo.png" height="40" alt="University logo"/><br/><br/>
             <strong>Master's Degree</strong> &nbsp;<code>In progress</code><br/>
             Computer Engineering and Automation <br/>
             <sub>2024 – present</sub>
@@ -43,7 +43,7 @@ Born January 22, 2003. I hold a Bachelor's degree in Computer Engineering and Au
       <table border="1" cellspacing="0" cellpadding="16" style="border-collapse:collapse; border-color:#e1e4e8; border-radius:8px; width:100%;">
         <tr>
           <td>
-            <img src="assets/university_logo.png" height="40" alt="University logo"/><br/><br/>
+            <img src="logo.png" height="40" alt="University logo"/><br/><br/>
             <strong>Bachelor's Degree</strong> &nbsp;<code>Completed</code><br/>
             Computer Engineering and Automation<br/>
             <sub>2021 – 2024</sub>
@@ -53,7 +53,7 @@ Born January 22, 2003. I hold a Bachelor's degree in Computer Engineering and Au
     </td>
   </tr>
 </table>
----
+
 
 ## Skills
 
