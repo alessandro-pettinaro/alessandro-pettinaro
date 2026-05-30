@@ -1,3 +1,4 @@
+<div align="center">
 <h1>Alessandro Pettinaro</h1>
 
 <p>Computer Engineering — Software Developer & AI Engineer</p>
@@ -31,7 +32,7 @@ Born January 22, 2003. I hold a Bachelor's degree in Computer Engineering and Au
           <td>
             <img src="assets/university_logo.png" height="40" alt="University logo"/><br/><br/>
             <strong>Master's Degree</strong> &nbsp;<code>In progress</code><br/>
-            Computer Engineering<br/>
+            Computer Engineering and Automation <br/>
             <sub>2024 – present</sub>
           </td>
         </tr>
