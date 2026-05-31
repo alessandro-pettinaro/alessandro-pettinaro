@@ -4,7 +4,7 @@
 <p>Computer Engineering - Software Developer & AI Engineer</p>
 
 <p>
-  <a href="https://www.linkedin.com/in/alessandropettinaro](https://www.linkedin.com/in/alessandro-pettinaro-15a594405">
+  <a href="https://www.linkedin.com/in/alessandro-pettinaro-15a594405/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:alessandropettinaro@icloud.com">
@@ -30,11 +30,10 @@ Born January 22, 2003. I hold a Bachelor's degree in Computer Engineering and Au
       <sub>Università Politecnica delle Marche · 2024 – present</sub>
     </td>
   </tr>
-  <tr><td colspan="2">&nbsp;</td></tr>
   <tr>
     <td><img src="logo.png" height="40"/></td>
     <td>
-      <strong>Bachelor's Degree</strong> · Computer Engineering and Automation &nbsp;<code>Completed</code><br/>
+      <strong>Bachelor's Degree</strong> · Computer Engineering &nbsp;<code>Completed</code><br/>
       <sub>Università Politecnica delle Marche · 2021 – 2024</sub>
     </td>
   </tr>
@@ -71,68 +70,6 @@ Born January 22, 2003. I hold a Bachelor's degree in Computer Engineering and Au
 ---
 
 ## Projects
-
-### AI & Machine Learning
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="48%" valign="top">
-      <table border="1" cellspacing="0" cellpadding="16" style="border-collapse:collapse; border-color:#e1e4e8; border-radius:8px; width:100%;">
-        <tr>
-          <td>
-            <a href="https://github.com/alessandro-pettinaro/VideoMamba"><strong>VideoMamba</strong></a><br/>
-            <sub>Fine-tuning of the VideoMamba model for retail action recognition. Classifies actions such as product inspection and shelf interaction (take / release) across FPV, TPV, and TOP views.</sub><br/><br/>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-            <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-### Backend & Database
-
-<a href="https://github.com/alessandro-pettinaro/project-name">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alessandro-pettinaro&repo=project-name&theme=default&hide_border=true&title_color=185FA5&icon_color=185FA5" />
-</a>
-
-### Mobile Apps
-
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="48%" valign="top">
-      <table border="1" cellspacing="0" cellpadding="16" style="border-collapse:collapse; border-color:#e1e4e8; border-radius:8px; width:100%;">
-        <tr>
-          <td>
-            <a href="https://github.com/alessandro-pettinaro/Barber"><strong>Barber</strong></a><br/>
-            <sub>Android app for barbershop management. Handles appointments, clients, services, shifts and statistics. Includes automatic SMS confirmations and reminders via Firebase Cloud Functions.</sub><br/><br/>
-            <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-            <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="4%"></td>
-    <td width="48%" valign="top">
-      <table border="1" cellspacing="0" cellpadding="16" style="border-collapse:collapse; border-color:#e1e4e8; border-radius:8px; width:100%;">
-        <tr>
-          <td>
-            <a href="https://github.com/alessandro-pettinaro/HealtyLife"><strong>HealtyLife</strong></a><br/>
-            <sub>Coming soon.</sub><br/><br/>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-### Web & Scripting
-
-<a href="https://github.com/alessandro-pettinaro/project-name">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alessandro-pettinaro&repo=project-name&theme=default&hide_border=true&title_color=185FA5&icon_color=185FA5" />
-</a>
-
-<div align="center">
-  <sub>Open to collaborations, ambitious AI projects, and conversations about computer science.</sub>
+<div>
+<sub>Open to collaborations, ambitious AI projects, and conversations about computer science.</sub>
 </div>
