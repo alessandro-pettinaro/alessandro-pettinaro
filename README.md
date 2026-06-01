@@ -70,6 +70,12 @@ Born January 22, 2003. I hold a Bachelor's degree in Computer Engineering and Au
 ---
 
 ## Projects
+### HealtyLife
+> App iOS per il monitoraggio della salute personale
+
+- **Tech:** Swift · Core ML · HealthKit
+- **Repo:** [alessandro-pettinaro/HealtyLife](https://github.com/alessandro-pettinaro/HealtyLife)
+
 <div>
 <sub>Open to collaborations, ambitious AI projects, and conversations about computer science.</sub>
 </div>
