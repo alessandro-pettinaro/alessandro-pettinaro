@@ -18,7 +18,7 @@
 
 ## About
 
-Born January 22, 2003. I hold a Bachelor's degree in Computer Engineering and Automation, and I am currently pursuing a Master's degree in Computer Engineering. My core interest is artificial intelligence. I am drawn to understanding how intelligent systems work and to building software that is actually useful. I do not limit myself to a single domain, and I consider that a strength.
+I hold a Bachelor's degree in Computer Engineering and Automation, and I am currently pursuing a Master's degree in Computer Engineering. My core interest is artificial intelligence. I am drawn to understanding how intelligent systems work and to building software that is actually useful. I do not limit myself to a single domain, and I consider that a strength.
 
 ## Education
 
